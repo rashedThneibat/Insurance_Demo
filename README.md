@@ -6,7 +6,6 @@
 
 ## What it does
 
-- **Triage queue** — claims sorted by AI triage score, with status filters and a "sent back" badge for rejected claims.
 - **Photos-first claim workspace** — structured FNOL, policy snapshot, documents, and audit timeline on one page.
 - **One-call AI analysis** — a single multimodal call returns damage severity, line-item repair estimate, fraud signals, and a 0–100 triage score. Every field has a confidence chip and is editable in place.
 - **Senior approval loop** — adjuster submits, senior reviews the same evidence, and approves or rejects with a structured form. Rejections persist as a banner and auto-clear on resubmit.
